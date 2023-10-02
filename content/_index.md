@@ -15,17 +15,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: Tensorflow, Pytorch, Keras, Scikit-learn
+          icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Linux
+          description: Linux System
+          icon: linux
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Weiqi (Go)
+          description: Chinese National Second-level Go Player
+          icon: chess-board
           icon_pack: fas
   - block: experience
     content:
@@ -39,26 +39,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Consultant
+          company: WorldQuant 
+          company_url: 'https://www.worldquant.com/'
+          company_logo: org-wq
+          location: Singapore
+          date_start: 'Oct 2023'
+          date_end: 'Present'
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Data Science Intern
+          company: Dingsong Quant
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: org-ds
+          location: China
+          date_start: 'Mar 2019'
+          date_end: 'Jun 2019'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'

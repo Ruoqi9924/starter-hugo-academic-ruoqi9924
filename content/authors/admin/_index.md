@@ -22,7 +22,7 @@ organizations:
     url: https://www.ntu.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in the force-induced deformation behavior of metallic materials at the nano-scale. My main research methods include molecular dynamics (MD), first principles/density functional theory (DFT) and machine learning (ML).
+bio: My research interest lies in the force-induced deformation behavior of metallic materials at the nano-scale. My main research methods include machine learning (ML), molecular dynamics (MD), and first principles/density functional theory (DFT).
 
 # Interests to show in About widget
 interests:
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Ruoqi Dang is a Ph.D. student at Nanyang Technological University, Singapore, under the superevisor of Academician Huajian Gao. Her research interests focus on the force-induced deformation behavior of metallic materials at the nano-scale. Her research methods include molecular dynamics, first principles/density functional theory and machine learning methods.
+Ruoqi Dang is a Ph.D. student at Nanyang Technological University, Singapore, under the supervision of Academician Huajian Gao. She received her Bachelor's degree in Xi'an Jiaotong University. Her research interests focus on the force-induced deformation behavior of metallic materials at the nano-scale. Her research methods include machine learning methods molecular dynamics, and first principles/density functional theory.
 {style="text-align: justify;"}
