@@ -44,8 +44,8 @@ sections:
           company_url: 'https://www.worldquant.com/'
           company_logo: org-wq
           location: Singapore
-          date_start: 'Oct 2023'
-          date_end: 'Present'
+          date_start: '2023-10-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
@@ -57,8 +57,8 @@ sections:
           company_url: ''
           company_logo: org-ds
           location: China
-          date_start: 'Mar 2019'
-          date_end: 'Jun 2019'
+          date_start: '2019-03-01'
+          date_end: '2019-06-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
