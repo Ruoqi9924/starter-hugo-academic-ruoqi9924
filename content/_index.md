@@ -17,15 +17,15 @@ sections:
       items:
         - name: Python
           description: Tensorflow, Keras, Pytorch, Scikit-learn
-          icon: r-project
+          icon: python
           icon_pack: fab
         - name: Linux
-          description: 100%
-          icon: chart-line
+          description: Linux System
+          icon: linux
           icon_pack: fas
         - name: Weiqi (Go)
-          description: 10%
-          icon: camera-retro
+          description: Chinese National Second-level Go Player
+          icon: chess-board
           icon_pack: fas
   - block: experience
     content:
