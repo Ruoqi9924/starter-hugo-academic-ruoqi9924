@@ -42,7 +42,7 @@ sections:
         - title: Consultant
           company: WorldQuant
           company_url: 'https://www.worldquant.com/'
-          company_logo: org-wq
+          company_logo: org-gc
           location: Singapore
           date_start: '2023-10-01'
           date_end: ''
@@ -55,7 +55,7 @@ sections:
         - title: Data Science Intern
           company: Dingsong Quant
           company_url: ''
-          company_logo: org-ds
+          company_logo: org-x
           location: China
           date_start: '2019-03-01'
           date_end: '2019-06-01'
