@@ -42,7 +42,7 @@ sections:
         - title: Consultant
           company: WorldQuant
           company_url: 'https://www.worldquant.com/'
-          company_logo: org-gc
+          company_logo: worldquant.jpg
           location: Singapore
           date_start: '2023-10-01'
           date_end: ''
