@@ -47,20 +47,33 @@ sections:
           date_start: '2023-10-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              # Responsibilities include:
+              * Participated in the Challenge competition and won the gold medal independently, registered as a consultant in Singapore and continued to explore Alphas.
+              * Mined over 20 factors with a Sharpe ratio greater than 2 from the perspectives of scale, value, momentum, profitability, growth, etc.
+              # * Deploying
         - title: Data Science Intern
           company: Dingsong Quant
           company_url: ''
-          company_logo: org-x
+          company_logo: dingsong
           location: China
           date_start: '2019-03-01'
           date_end: '2019-06-01'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+          description: |2-
+		      * Created and updated MySQL database from JoinQuant stock trading platform.
+              * Classified and predicted the stock price by using AdaBoost algorithm with multi-factor analysis, and wrote the research report.
+        - title: Academic Mentor
+          company: Harbour Education
+          company_url: 'https://www.cas-harbour.com/'
+          company_logo: harbour
+          location: Online
+          date_start: '2010-03-01'
+          date_end: '2023-05-01'
+          description: |2-
+		      * Taught the following projects: Machine learning foundation, Semiconductor materials and engineering, Atomic simulation of materials, Nanoscience, Nonlinear programming foundation and Introduction to structural dynamics; the cooperative professors were all from QS TOP 50 Universities.
+ 	          * Gave lectures on computer science, Python programming skills, mathematics in weekly sessions and reviewed students’ progress.
+ 	          * Won the Excellent Academic Mentor twice.
+
+	design:
       columns: '2'
   - block: accomplishments
     content:
