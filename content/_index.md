@@ -49,9 +49,9 @@ sections:
           description: |2-
               Responsibilities include:
 			  
-              * Participated in the Challenge competition and won the gold medal independently, registered as a consultant in Singapore and continued to explore Alphas.
-              * Mined over 20 factors with a Sharpe ratio greater than 2 from the perspectives of scale, value, momentum, profitability, growth, etc.
-              # * Deploying
+              * Analysing
+              * Analysing
+              * Deploying
         - title: Data Science Intern
           company: Dingsong Quant
           company_url: ''
@@ -61,9 +61,9 @@ sections:
           date_end: '2019-06-01'
           description: |2-
 		      Responsibilities include:
-			  
-			  * Created and updated MySQL database from JoinQuant stock trading platform.
-              * Classified and predicted the stock price by using AdaBoost algorithm with multi-factor analysis, and wrote the research report.
+
+              * initial
+              * test
         #- title: Academic Mentor
         #  company: Harbour Education
         #  company_url: 'https://www.cas-harbour.com/'
