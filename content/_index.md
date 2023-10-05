@@ -48,9 +48,9 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-			  
+
               * Analysing
-              * Analysing
+              * Modelling
               * Deploying
         - title: Data Science Intern
           company: Dingsong Quant
@@ -58,9 +58,8 @@ sections:
           company_logo: org-x
           location: China
           date_start: '2019-03-01'
-          date_end: '2019-06-01'
+          date_end: '2029-06-01'
           description: Taught electronic engineering and researched semiconductor 
-
 	design:
       columns: '2'
   - block: accomplishments
