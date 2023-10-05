@@ -64,19 +64,6 @@ sections:
 
               * initial
               * test
-        #- title: Academic Mentor
-        #  company: Harbour Education
-        #  company_url: 'https://www.cas-harbour.com/'
-        #  company_logo: harbour
-        #  location: Online
-        #  date_start: '2010-03-01'
-        #  date_end: '2023-05-01'
-        #  description: |2-
-		#      Responsibilities include:
-		#	  
-		#	  * Taught the following projects: Machine learning foundation, Semiconductor materials and engineering, Atomic simulation of materials, Nanoscience, Nonlinear programming foundation and Introduction to structural dynamics; the cooperative professors were all from QS TOP 50 Universities.
- 	    #      * Gave lectures on computer science, Python programming skills, mathematics in weekly sessions and reviewed students’ progress.
- 	    #      * Won the Excellent Academic Mentor twice.
 
 	design:
       columns: '2'
