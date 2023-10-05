@@ -55,15 +55,11 @@ sections:
         - title: Data Science Intern
           company: Dingsong Quant
           company_url: ''
-          company_logo: dingsong
+          company_logo: org-x
           location: China
           date_start: '2019-03-01'
           date_end: '2019-06-01'
-          description: |2-
-		      Responsibilities include:
-
-              * initial
-              * test
+          description: haaaaaaa
 
 	design:
       columns: '2'
